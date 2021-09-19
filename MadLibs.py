@@ -15,8 +15,8 @@ word_dict = {
         'city name':['Chicago','New York','Delhi','Bangalore','Chennai'],
         'noun':['people','map','music','dog','circus','ball','salad'],
         'action verb':['run','fall','cry','scurry','jump','watch','hunt'],
-        'sports noun':['ball','mit','puck','uniform','helmet','scoreboard','player'],
-        'place': ['park','desert','forest','store','restaurant','waterfall'],
+        'sports noun':['ball','mit','puck','uniform','helmet','scoreboard','player','referee'],
+        'place': ['park','desert','forest','store','restaurant','waterfall','library'],
         'edibles':['nuts','bananas','hot dogs','chips','burgers','ice creams'],
         'beverage':['beer cans','soft drinks','tea cups','coffee cups','orange juice']
 }
